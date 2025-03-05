@@ -21,6 +21,7 @@ return {
         lua = { "stylua" },
         python = { "isort", "black" },
         vue = { "prettier" },
+        react = { "prettier" },
         php = { "tlint" },
         blade = { "tlint" },
       },

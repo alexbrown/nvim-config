@@ -12,7 +12,9 @@ return {
       svelte = { "eslint_d" },
       python = { "pylint" },
       vue = { "eslint_d" },
+      react = { "eslint_d" },
       php = { "tlint" },
+      blade = { "tlint" },
     }
 
     local lint_augroup = vim.api.nvim_create_augroup("lint", { clear = true })

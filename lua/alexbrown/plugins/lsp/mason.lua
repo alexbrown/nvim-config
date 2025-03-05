@@ -37,6 +37,7 @@ return {
         "emmet_ls",
         "prismals",
         "pyright",
+        "duster",
       },
     })
 
@@ -48,6 +49,7 @@ return {
         "black", -- python formatter
         "pylint",
         "eslint_d",
+        "duster",
       },
     })
   end,
